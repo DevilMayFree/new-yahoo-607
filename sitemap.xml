@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+    <url>
+        <loc>https://lynewsyahoo.tw/%E7%AB%8B%E5%85%83%E6%8A%95%E8%B3%87%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%88%87%E8%81%AF%E6%8D%B7%E6%8A%95%E8%B3%87%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%90%88%E4%BD%9C%EF%BC%9A%E6%99%BA%E6%85%A7%E6%8A%95%E8%B3%87%E6%96%B0%E7%B4%80%E5%85%83 .html</loc>
+        <priority>0.3</priority>
+        <lastmod>2025-02-09</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+
+    <url>
+        <loc>https://lynewsyahoo.tw/</loc>
+        <priority>0.3</priority>
+        <lastmod>2025-02-09</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+
+</urlset>
